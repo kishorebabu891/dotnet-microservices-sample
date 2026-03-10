@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetProjects\\microservice\\OrderService\\OrderService.csproj": {}
+    "D:\\repos\\dotnet-microservices-sample\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "D:\\DotNetProjects\\microservice\\OrderService\\OrderService.csproj": {
+    "D:\\repos\\dotnet-microservices-sample\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetProjects\\microservice\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "D:\\repos\\dotnet-microservices-sample\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "D:\\DotNetProjects\\microservice\\OrderService\\OrderService.csproj",
+        "projectPath": "D:\\repos\\dotnet-microservices-sample\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetProjects\\microservice\\OrderService\\obj\\",
+        "outputPath": "D:\\repos\\dotnet-microservices-sample\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -71,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

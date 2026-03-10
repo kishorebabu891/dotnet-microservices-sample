@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZiWt/YxKdiU=",
+  "dgSpecHash": "11zEGBAlgIo=",
   "success": true,
-  "projectFilePath": "D:\\DotNetProjects\\microservice\\ProductService\\ProductService.csproj",
+  "projectFilePath": "D:\\repos\\dotnet-microservices-sample\\ProductService\\ProductService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.24\\microsoft.aspnetcore.openapi.8.0.24.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
