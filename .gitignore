@@ -1,0 +1,10 @@
+# visual studio
+.vs/
+
+# Ignore build folders
+bin/
+obj/
+
+# Specific API Gateway debug build
+ApiGateway/bin/Debug/
+ApiGateway/bin/Debug/net8.0/
